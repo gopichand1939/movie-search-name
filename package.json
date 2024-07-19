@@ -1,7 +1,7 @@
 {
   "name": "movie-search-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://gopichand1939.github.io/movie-search-name",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
